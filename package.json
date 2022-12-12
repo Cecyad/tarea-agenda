@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cecyad/Agenda_appi.git"
+    "url": "git+https://github.com/Cecyad/tarea-agenda.git"
   },
   "author": "Cecilia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Cecyad/Agenda_appi/issues"
+    "url": "https://github.com/Cecyad/tarea-agenda/issues"
   },
-  "homepage": "https://github.com/Cecyad/Agenda_appi#readme"
+  "homepage": "https://github.com/Cecyad/tarea-agenda#readme"
 }
